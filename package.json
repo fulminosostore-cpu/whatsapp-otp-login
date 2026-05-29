@@ -1,0 +1,8 @@
+{
+  "name": "whatsapp-otp-login",
+  "version": "1.0.0",
+  "dependencies": {
+    "@upstash/redis": "^1.28.0",
+    "twilio": "^5.0.0"
+  }
+}
